@@ -280,7 +280,7 @@ span{
 @media (max-width:1348px)  {
 
   #title{
-    left: 28%;
+    left: 30%;
   }
   .skills{
     margin-left: 40px;
@@ -303,7 +303,7 @@ span{
      margin: 70px;
    }
    #title{
-     left: 26%;
+     left: 28%;
    }
   }
 
@@ -313,7 +313,7 @@ span{
      margin: 60px;
    }
    #title{
-     left: 24%;
+     left: 26%;
    }
    .skills{
      margin-left: 40px;
@@ -327,7 +327,7 @@ span{
     margin: 50px;
   }
   #title{
-    left: 20%;
+    left: 24%;
   }
   .skills{
     width: 35%;
@@ -355,7 +355,7 @@ span{
 
 @media (max-width:1020px)  {
   #title{
-    left: 16%;
+    left: 20%;
   }
   .skills{
     width: 35%;
@@ -380,7 +380,7 @@ span{
 
 @media (max-width:920px)  {
   #title{
-    left: 14%;
+    left: 20%;
   }
   .skills{
     width: 30%;
@@ -405,7 +405,7 @@ span{
 
 @media (max-width:880px)  {
   #title{
-    left: 12%;
+    left: 18%;
   }
   .skills{
     width: 30%;
@@ -433,7 +433,7 @@ span{
     margin: 40px;
   }
   #title{
-    left: 8%;
+    left: 18%;
     font-size: 18px;
   }
   .skills{
@@ -459,7 +459,7 @@ span{
 
 @media (max-width:730px)  {
   #title{
-    left: 8%;
+    left: 18%;
     font-size: 16px;
   }
   .skills{
@@ -477,7 +477,7 @@ span{
 
 @media (max-width:600px)  {
   #title{
-    left: 8%;
+    left: 18%;
     font-size: 14px;
   }
   .skills{
@@ -505,8 +505,8 @@ span{
     margin: 25px;
   }
   #title{
-    left: 8%;
-    font-size: 12px;
+    left: 16%;
+    font-size: 14px;
   }
   #navigation ul li{
     display: inline;
@@ -576,7 +576,7 @@ span{
     margin: 20px;
   }
   #title{
-    left: 4%;
+    left: 14%;
     font-size: 12px;
   }
   .project {
